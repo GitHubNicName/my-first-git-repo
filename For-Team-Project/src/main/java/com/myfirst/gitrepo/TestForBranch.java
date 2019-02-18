@@ -4,7 +4,8 @@ package com.myfirst.gitrepo;
 public class TestForBranch {
 
 	public TestForBranch() {
-		
+		//TODO : 로직담당자는 생성자로 받을 값을 입력하세요.
+		//Insert Here
 	}
 	
 }
